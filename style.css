@@ -1,0 +1,15 @@
+*{
+
+}
+
+.container{
+    border: solid red;
+}
+
+.row{
+    border: solid blue;
+}
+
+.row div{
+    border: solid yellowgreen;
+}
